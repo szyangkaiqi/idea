@@ -1,0 +1,80 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value=" /**      * Returns the absolute pathname string of this abstract pathname.      *      * &lt;p&gt; If this abstract pathname is already absolute, then the pathname      * string is simply returned as if by the &lt;code&gt;{@link #getPath}&lt;/code&gt;      * method.  If this abstract pathname is the empty abstract pathname then      * the pathname string of the current user directory, which is named by the      * system property &lt;code&gt;user.dir&lt;/code&gt;, is returned.  Otherwise this      * pathname is resolved in a system-dependent way.  On UNIX systems, a      * relative pathname is made absolute by resolving it against the current      * user directory.  On Microsoft Windows systems, a relative pathname is made absolute      * by resolving it against the current directory of the drive named by the      * pathname, if any; if not, it is resolved against the current user      * directory.      *      * @return  The absolute pathname string denoting the same file or      *          directory as this abstract " />
+      <item value="Substitute the template entries with the generated sheet data files" />
+      <item value="/** * Returns the longest string {@code prefix} such that {@code a.toString().startsWith(prefix) &amp;&amp; * b.toString().startsWith(prefix)}, taking care not to split surrogate pairs. If {@code a} and * {@code b} have no common prefix, returns the empty string. * * @since 11.0 */" />
+      <item value="equivalent" />
+      <item value="specified twice" />
+      <item value="/** * Customize the element declaration to be nillable. * &lt;p&gt;If nillable() is true, then the JavaBean property is * mapped to a XML Schema nillable element declaration. */" />
+      <item value="unmodifiable" />
+      <item value="bank transfer" />
+      <item value="FindBugs: Dead store to local variable This instruction assigns a value to a local variable, but the value is not read or used in any subsequent instruction. Often, this indicates an error, because the value computed is never used. Note that Sun's ja vac compiler often generates dead stores for final local variables. Because FindBugs is a bytecode-based tool, there is no easy way to eliminate these false positives." />
+      <item value="he name of the user-provided message bundle as defined in the specification." />
+      <item value="make" />
+      <item value="Result" />
+      <item value="/** * If a value is present, apply the provided {@code Optional}-bearing * mapping function to it, return that result, otherwise return an empty * {@code Optional}. This method is similar to {@link #map(Function)}, * but the provided mapper is one whose result is already an {@code Optional}, * and if invoked, {@code flatMap} does not wrap it with an additional * {@code Optional}. * * @param &lt;U&gt; The type parameter to the {@code Optional} returned by * @param mapper a mapping function to apply to the value, if present * the mapping function * @return the result of applying an {@code Optional}-bearing mapping * function to the value of this {@code Optional}, if a value is present, * otherwise an empty {@code Optional} * @throws NullPointerException if the mapping function is null or returns * a null result */" />
+      <item value="random" />
+      <item value="ripples" />
+      <item value="Result of 'Stream.sorted()' is ignored less... (Ctrl+F1) Inspection info: Reports any calls to specific methods where the result of that call is ignored. Method calls inspected are:&#10;Calls to simple getters (which do nothing except return a field)&#10;Calls to methods specified in the settings of this inspection&#10;Calls to Methods annotated with org.jetbrains.annotations.Contract(pure=true)&#10;Calls to Methods annotated with .*.CheckReturnValue&#10;Calls to Methods located in a class annotated with javax.annotation.CheckReturnValue&#10;Calls to Methods located in a package annotated with javax.annotation.CheckReturnValue&#10;Optionally all calls to non-library methods&#10;For calls to many methods ignoring the result is perfectly legitimate, but for some methods it is almost certainly an error. Examples of methods where ignoring the result of a call is likely to be an error include java.io.inputStream.read(), which returns the number of bytes actually read and any method on java.lang.String or java.math.BigInteger, as all of those methods are side-effect free and thus pointless if ignored." />
+      <item value="/** * Names of the default caches to consider for caching operations defined * in the annotated class. * &lt;p&gt;If none is set at the operation level, these are used instead of the default. * &lt;p&gt;May be used to determine the target cache (or caches), matching the * qualifier value or the bean names of a specific bean definition. */" />
+      <item value="/** * Names of the caches in which method invocation results are stored. * &lt;p&gt;Names may be used to determine the target cache (or caches), matching * the qualifier value or bean name of a specific bean definition. * @since 4.2 * @see #value * @see CacheConfig#cacheNames */" />
+      <item value="Manual acks - user must ack/nack via a channel aware listener." />
+      <item value="/** * Set the concurrency of the listener container for this listener. Overrides the * default set by the listener container factory. Maps to the concurrency setting of * the container type. * &lt;p&gt;For a * {@link org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer * SimpleMessageListenerContainer} if this value is a simple integer, it sets a fixed * number of consumers in the {@code concurrentConsumers} property. If it is a string * with the form {@code &quot;m-n&quot;}, the {@code concurrentConsumers} is set to {@code m} * and the {@code maxConcurrentConsumers} is set to {@code n}. * &lt;p&gt;For a * {@link org.springframework.amqp.rabbit.listener.DirectMessageListenerContainer * DirectMessageListenerContainer} it sets the {@code consumersPerQueue} property. * @return the concurrency. * @since 2.0 */" />
+      <item value="allow" />
+      <item value="Reads the full contents of this byte source as a byte array." />
+      <item value="/** * Returns a buffered reader that reads from a file using the given character set. * * &lt;p&gt;&lt;b&gt;{@link java.nio.file.Path} equivalent:&lt;/b&gt; {@link" />
+      <item value="/** * Provides utility methods for working with {@linkplain File files}. * * &lt;p&gt;{@link java.nio.file.Path} users will find similar utilities in {@link MoreFiles} and the * JDK's {@link java.nio.file.Files} class. * * @author Chris Nokleberg * @author Colin Decker * @since 1.0 */" />
+      <item value="/** * This class consists exclusively of static methods that return a {@link Path} * by converting a path string or {@link URI}. * * @since 1.7 */" />
+      <item value="/** * Create a new file, failing if the file already exists. * The check for the existence of the file and the creation of the file * if it does not exist is atomic with respect to other file system * operations. */" />
+      <item value="/** * Create a new file if it does not exist. * This option is ignored if the {@link #CREATE_NEW} option is also set. * The check for the existence of the file and the creation of the file * if it does not exist is atomic with respect to other file system * operations. */" />
+      <item value="/** * If the file already exists and it is opened for {@link #WRITE} * access, then its length is truncated to 0. This option is ignored * if the file is opened only for {@link #READ} access. */" />
+      <item value="/** * If the file is opened for {@link #WRITE} access then bytes will be written * to the end of the file rather than the beginning. * * &lt;p&gt; If the file is opened for write access by other programs, then it * is file system specific if writing to the end of the file is atomic. */" />
+      <item value="get Vendor Code" />
+      <item value="value" />
+      <item value="Post Mapping" />
+      <item value="start" />
+      <item value="Lists" />
+      <item value="金额" />
+      <item value="付款申请审核" />
+      <item value="query Pay Request" />
+      <item value="required" />
+      <item value="error" />
+      <item value="set Sort Dto With Field Name" />
+      <item value="Exception" />
+      <item value="contains Key" />
+      <item value="flat" />
+      <item value="Int Stream" />
+      <item value="filter" />
+      <item value="Stream" />
+      <item value="Big Decimal" />
+      <item value="Integer" />
+      <item value="IntSummaryStatistics" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20181219000250238" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Microsoft YaHei Mono" />
+    <option name="primaryFontFamily" value="Microsoft YaHei Mono" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="269a4579c59bf261" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
