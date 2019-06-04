@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close Others</Description>
-          <Count>372</Count>
+          <Count>373</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -222,7 +222,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>3361</Count>
+          <Count>3362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -254,7 +254,7 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'Alt+Shift+M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
-          <Count>43</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -334,7 +334,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>99</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Module">
