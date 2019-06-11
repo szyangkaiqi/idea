@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3678</Count>
+          <Count>3679</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -222,7 +222,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>3552</Count>
+          <Count>3555</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -334,7 +334,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>107</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Module">
@@ -350,7 +350,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>523</Count>
+          <Count>524</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
