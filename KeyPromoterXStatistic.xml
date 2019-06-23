@@ -222,7 +222,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4002</Count>
+          <Count>4005</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -358,7 +358,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>583</Count>
+          <Count>584</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
