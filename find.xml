@@ -7,8 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -16,11 +15,12 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.Java</mask>
-    <mask>*.*</mask>
     <mask>*Controller.java</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.*</mask>
   </component>
 </application>
