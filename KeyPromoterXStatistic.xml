@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4412</Count>
+          <Count>4417</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -246,7 +246,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>3639</Count>
+          <Count>3640</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
