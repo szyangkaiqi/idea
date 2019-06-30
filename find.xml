@@ -16,9 +16,9 @@
     <mask>*Controller.java</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
-    <mask>*.properties</mask>
     <mask>*.*</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
