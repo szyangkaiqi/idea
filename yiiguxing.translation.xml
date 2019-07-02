@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deserializer String Cache" />
       <item value="/** * Get a connection from the pool, or timeout after the specified number of milliseconds. * * @param hardTimeout the maximum time to wait for a connection from the pool * @return a java.sql.Connection instance * @throws SQLException thrown if a timeout occurs trying to obtain a connection */" />
       <item value="/** * Set the SQL query to be executed to test the validity of connections. Using * the JDBC4 &lt;code&gt;Connection.isValid()&lt;/code&gt; method to test connection validity can * be more efficient on some databases and is recommended. See * {@link HikariConfig#setJdbc4ConnectionTest(boolean)}. * * @param connectionTestQuery a SQL query string */" />
       <item value="/** * Set the SQL query to be executed to test the validity of connections. Using * the JDBC4 &lt;code&gt;Connection.isValid()&lt;/code&gt; method to test connection validity can * be more efficient on some databases and is recommended. See * {@link HikariConfig#setJdbc4ConnectionTest(boolean)}." />
@@ -50,12 +51,11 @@
       <item value="error" />
       <item value="set Sort Dto With Field Name" />
       <item value="Exception" />
-      <item value="contains Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
