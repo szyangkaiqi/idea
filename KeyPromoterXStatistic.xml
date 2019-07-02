@@ -230,7 +230,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4491</Count>
+          <Count>4493</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -246,7 +246,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>3755</Count>
+          <Count>3758</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -519,6 +519,14 @@
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Execution Point">
+        <Item>
+          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
+          <ShortCut>'Alt+F10'</ShortCut>
+          <Description>Show Execution Point</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Image Thumbnails">
