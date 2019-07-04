@@ -15,10 +15,10 @@
     <mask>*Controller.java</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.Java</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
