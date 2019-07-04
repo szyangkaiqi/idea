@@ -46,7 +46,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close Others</Description>
-          <Count>478</Count>
+          <Count>479</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -230,7 +230,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4538</Count>
+          <Count>4540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -246,7 +246,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>3802</Count>
+          <Count>3807</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
