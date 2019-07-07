@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * The Java SQL framework allows for multiple database drivers. Each driver should supply a class that implements the Driver interface * * &lt;p&gt; * The DriverManager will try to load as many drivers as it can find and then for any given connection request, it will ask each driver in turn to try to * connect to the target URL. * &lt;/p&gt; * * &lt;p&gt; * It is strongly recommended that each Driver class should be small and standalone so that the Driver class can be loaded and queried without bringing in vast * quantities of supporting code. * &lt;/p&gt; * * &lt;p&gt; * When a Driver class is loaded, it should create an instance of itself and register it with the DriverManager. This means that a user can load and register a * driver by doing Class.forName(&quot;foo.bah.Driver&quot;) * &lt;/p&gt; */" />
+      <item value="/* * Standardizes OS name information to align with other drivers/clients * for MySQL connection attributes * * @return the transformed, standardized OS name */" />
+      <item value="// Tie the thread's context ClassLoader to the ClassLoader that loaded the class instead of inheriting the context ClassLoader from the current // thread, which would happen by default. // Application servers may use this information if they attempt to shutdown this thread. By leaving the default context ClassLoader this thread // could end up being shut down even when it is shared by other applications and, being it statically initialized, thus, never restarted again." />
+      <item value="/** * This class implements a thread that is responsible for closing abandoned MySQL connections, i.e., connections that are not explicitly closed. * There is only one instance of this class and there is a single thread to do this task. This thread's executor is statically referenced in this same class. */" />
       <item value="/** * Removes the next reference object in this queue, blocking until either * one becomes available or the given timeout period expires. * * &lt;p&gt; This method does not offer real-time guarantees: It schedules the * timeout as if by invoking the {@link Object#wait(long)} method. * * @param timeout If positive, block for up to &lt;code&gt;timeout&lt;/code&gt; * milliseconds while waiting for a reference to be * added to this queue. If zero, block indefinitely. * * @return A reference object, if one was available within the specified * timeout period, otherwise &lt;code&gt;null&lt;/code&gt; * * @throws IllegalArgumentException * If the value of the timeout argument is negative * * @throws InterruptedException * If the timeout wait is interrupted */" />
       <item value="/** * Checks if the thread's context ClassLoader is active. This is usually true but some application managers implement a life-cycle mechanism in their * ClassLoaders that is linked to the corresponding application's life-cycle. As such, a stopped/ended application will have a ClassLoader unable to load * anything and, eventually, they throw an exception when trying to do so. When this happens, this thread has no point in being alive anymore. */" />
       <item value="Deserializer String Cache" />
@@ -47,15 +51,11 @@
       <item value="start" />
       <item value="Lists" />
       <item value="金额" />
-      <item value="付款申请审核" />
-      <item value="query Pay Request" />
-      <item value="required" />
-      <item value="error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
