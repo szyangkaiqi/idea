@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="===2019-07-07 17:09:58.451 DEBUG com.ctrip.framework.apollo.internals.RemoteConfigLongPollService Line:163 - Long polling from http://10.0.99.230:8080/notifications/v2?cluster=default&amp;appId=ems-base-data&amp;ip=192.168.32.1&amp;notifications=%5B%7B%22namespaceName%22%3A%22ems.xxjob%22%2C%22notificationId%22%3A374%7D%2C%7B%22namespaceName%22%3A%22ems.logging%22%2C%22notificationId%22%3A200%7D%2C%7B%22namespaceName%22%3A%22ems.springDataSource%22%2C%22notificationId%22%3A337%7D%2C%7B%22namespaceName%22%3A%22ems.s3%22%2C%22notificationId%22%3A11%7D%2C%7B%22namespaceName%22%3A%22ems.tssWebservice%22%2C%22notificationId%22%3A301%7D%2C%7B%22namespaceName%22%3A%22ems.core%22%2C%22notificationId%22%3A410%7D%2C%7B%22namespaceName%22%3A%22application%22%2C%22notificationId%22%3A19%7D%2C%7B%22namespaceName%22%3A%22ems.springRabbitMq%22%2C%22notificationId%22%3A418%7D%2C%7B%22namespaceName%22%3A%22ems.springRedis%22%2C%22notificationId%22%3A312%7D%2C%7B%22namespaceName%22%3A%22ems.feign%22%2C%22notificationId%22%3A415%7D%2C%7B%22namespaceName%22%3A%22ems.mybatis%22%2C%22notificationId%22%3A170%7D%2C%7B%22namespaceName%22%3A%22ems.springConfig%22%2C%22notificationId%22%3A387%7D%5D" />
       <item value="/** * The Java SQL framework allows for multiple database drivers. Each driver should supply a class that implements the Driver interface * * &lt;p&gt; * The DriverManager will try to load as many drivers as it can find and then for any given connection request, it will ask each driver in turn to try to * connect to the target URL. * &lt;/p&gt; * * &lt;p&gt; * It is strongly recommended that each Driver class should be small and standalone so that the Driver class can be loaded and queried without bringing in vast * quantities of supporting code. * &lt;/p&gt; * * &lt;p&gt; * When a Driver class is loaded, it should create an instance of itself and register it with the DriverManager. This means that a user can load and register a * driver by doing Class.forName(&quot;foo.bah.Driver&quot;) * &lt;/p&gt; */" />
       <item value="/* * Standardizes OS name information to align with other drivers/clients * for MySQL connection attributes * * @return the transformed, standardized OS name */" />
       <item value="// Tie the thread's context ClassLoader to the ClassLoader that loaded the class instead of inheriting the context ClassLoader from the current // thread, which would happen by default. // Application servers may use this information if they attempt to shutdown this thread. By leaving the default context ClassLoader this thread // could end up being shut down even when it is shared by other applications and, being it statically initialized, thus, never restarted again." />
@@ -50,7 +51,6 @@
       <item value="Post Mapping" />
       <item value="start" />
       <item value="Lists" />
-      <item value="金额" />
     </histories>
     <option name="languageScores">
       <map>
