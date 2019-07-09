@@ -238,7 +238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4680</Count>
+          <Count>4681</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
