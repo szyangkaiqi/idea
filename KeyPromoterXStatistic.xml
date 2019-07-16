@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4745</Count>
+          <Count>4746</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -238,7 +238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4743</Count>
+          <Count>4745</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -254,7 +254,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4119</Count>
+          <Count>4125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -278,7 +278,7 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'Alt+Shift+M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
-          <Count>66</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -350,7 +350,7 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...ComServiceImpl.java'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...cessController.java'">
