@@ -345,6 +345,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild Module 'ems-process'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Rebuild Module 'ems-process'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rebuild Module 'mams-data-sync'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
