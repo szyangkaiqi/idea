@@ -254,7 +254,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4181</Count>
+          <Count>4182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -414,7 +414,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>645</Count>
+          <Count>646</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
