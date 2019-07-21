@@ -190,7 +190,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate XPath...">
@@ -238,7 +238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4795</Count>
+          <Count>4797</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -409,6 +409,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'QuickSort'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'QuickSort'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -471,6 +479,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Lambda1.main()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'QuickSort'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'QuickSort'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Test'">
@@ -591,6 +607,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'QuickSort'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'QuickSort'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'activiti-rest'">
