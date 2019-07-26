@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4866</Count>
+          <Count>4873</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -246,7 +246,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4847</Count>
+          <Count>4852</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -262,7 +262,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4278</Count>
+          <Count>4280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -430,7 +430,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>658</Count>
+          <Count>659</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
