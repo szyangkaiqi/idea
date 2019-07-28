@@ -46,7 +46,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close Others</Description>
-          <Count>527</Count>
+          <Count>529</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -241,6 +241,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="File Structure">
+        <Item>
+          <IdeaActionID>FileStructurePopup</IdeaActionID>
+          <ShortCut>'Ctrl+F12'</ShortCut>
+          <Description>File Structure</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find">
         <Item>
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4856</Count>
+          <Count>4870</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -278,7 +286,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4288</Count>
+          <Count>4304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -295,6 +303,14 @@
           <ShortCut>'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Files to Another Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Move Files to Another Changelist...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
@@ -462,7 +478,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>660</Count>
+          <Count>661</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -470,7 +486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
