@@ -62,7 +62,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>84</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -270,7 +270,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4918</Count>
+          <Count>4920</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -478,7 +478,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>671</Count>
+          <Count>672</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -601,6 +601,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show All Affected Files">
+        <Item>
+          <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
+          <ShortCut>'Alt+Shift+A'</ShortCut>
+          <Description>Show All Affected Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Coverage Data...">
         <Item>
           <IdeaActionID>SwitchCoverage</IdeaActionID>
@@ -631,6 +639,14 @@
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff as UML">
+        <Item>
+          <IdeaActionID>Uml.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+D'</ShortCut>
+          <Description>Show Diff as UML</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
