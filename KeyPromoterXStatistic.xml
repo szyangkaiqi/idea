@@ -46,7 +46,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close Others</Description>
-          <Count>541</Count>
+          <Count>542</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -286,7 +286,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4468</Count>
+          <Count>4471</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
