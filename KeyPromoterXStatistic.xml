@@ -46,7 +46,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close Others</Description>
-          <Count>558</Count>
+          <Count>559</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -526,7 +526,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DateUtils.main()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Generator'">
