@@ -46,7 +46,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close Others</Description>
-          <Count>562</Count>
+          <Count>563</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -270,7 +270,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>5044</Count>
+          <Count>5049</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -486,7 +486,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>689</Count>
+          <Count>693</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -534,7 +534,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Generator'</Description>
-          <Count>14</Count>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Generator.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Generator.main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Lambda'">
