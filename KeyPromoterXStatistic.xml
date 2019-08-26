@@ -46,7 +46,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close Others</Description>
-          <Count>565</Count>
+          <Count>566</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>259</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -270,7 +270,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>5060</Count>
+          <Count>5061</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -486,7 +486,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>698</Count>
+          <Count>699</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
