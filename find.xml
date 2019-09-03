@@ -15,8 +15,8 @@
     <mask>*.yml</mask>
     <mask>*.*</mask>
     <mask>*.Java</mask>
-    <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
