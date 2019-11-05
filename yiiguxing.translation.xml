@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="critical" />
       <item value="/** * Removes the current thread's value for this thread-local * variable. If this thread-local variable is subsequently * {@linkplain #get read} by the current thread, its value will be * reinitialized by invoking its {@link #initialValue} method, * unless its value is {@linkplain #set set} by the current thread * in the interim. This may result in multiple invocations of the * {@code initialValue} method in the current thread. * * @since 1.5 */" />
       <item value="/** * Constructs a new set containing the elements in the specified * collection. The &lt;tt&gt;HashMap&lt;/tt&gt; is created with default load factor * (0.75) and an initial capacity sufficient to contain the elements in * the specified collection. * * @param c the collection whose elements are to be placed into this set * @throws NullPointerException if the specified collection is null */" />
       <item value="/** * Returns a string representation of this {@code BigDecimal} * without an exponent field. For values with a positive scale, * the number of digits to the right of the decimal point is used * to indicate scale. For values with a zero or negative scale, * the resulting string is generated as if the value were * converted to a numerically equal value with zero scale and as * if all the trailing zeros of the zero scale value were present * in the result. * * The entire string is prefixed by a minus sign character '-' * (&lt;tt&gt;'&amp;#92;u002D'&lt;/tt&gt;) if the unscaled value is less than * zero. No sign character is prefixed if the unscaled value is * zero or positive. * * Note that if the result of this method is passed to the * {@linkplain #BigDecimal(String) string constructor}, only the * numerical value of this {@code BigDecimal} will necessarily be * recovered; the representation of the new {@code BigDecimal} * may have a different scale. In particular, if this * {@code BigDecimal} has a negative scale, the string resulting * from this method will have a scale of zero when processed by * the string constructor. * * (This method behaves analogously to the {@code toString} * method in 1.4 and earlier releases.) * * @return a string representation of this {@code BigDecimal} * without an exponent field. * @since 1.5 * @see #toString() * @see #toEngineeringString() */" />
@@ -50,13 +51,12 @@
       <item value="/** * Create a new file, failing if the file already exists. * The check for the existence of the file and the creation of the file * if it does not exist is atomic with respect to other file system * operations. */" />
       <item value="/** * Create a new file if it does not exist. * This option is ignored if the {@link #CREATE_NEW} option is also set. * The check for the existence of the file and the creation of the file * if it does not exist is atomic with respect to other file system * operations. */" />
       <item value="/** * If the file already exists and it is opened for {@link #WRITE} * access, then its length is truncated to 0. This option is ignored * if the file is opened only for {@link #READ} access. */" />
-      <item value="/** * If the file is opened for {@link #WRITE} access then bytes will be written * to the end of the file rather than the beginning. * * &lt;p&gt; If the file is opened for write access by other programs, then it * is file system specific if writing to the end of the file is atomic. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="71" />
         <entry key="ENGLISH" value="70" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
   </component>
