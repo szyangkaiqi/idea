@@ -65,7 +65,13 @@
       <app-key>
         <option name="appId" value="20181219000250238" />
         <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
@@ -75,6 +81,7 @@
       <youdao-translate>
         <option name="appId" value="269a4579c59bf261" />
         <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
