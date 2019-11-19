@@ -17,6 +17,7 @@
     <mask>*.Java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.properties`</mask>
     <mask>*.java</mask>
   </component>
 </application>
