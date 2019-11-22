@@ -5,7 +5,6 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
-  <action id="CompileDirty" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
