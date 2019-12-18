@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\ems-base [ems-base-parent]'" />
-    <option name="defaultScopeName" value="Directory '...\ems-base [ems-base-parent]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\ems-base [ems-base-parent]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
