@@ -14,11 +14,11 @@
     <mask>*.yml</mask>
     <mask>*.Java</mask>
     <mask>*.properties`</mask>
-    <mask>*.properties</mask>
     <mask>*.java\</mask>
     <mask>*.*</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
