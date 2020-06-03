@@ -15,13 +15,13 @@
     <mask>*.Java</mask>
     <mask>*.properties`</mask>
     <mask>*.java\</mask>
-    <mask>*.properties</mask>
     <mask>values.yaml</mask>
     <mask>pom.xml</mask>
     <mask>Dockerfile</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.yaml</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
