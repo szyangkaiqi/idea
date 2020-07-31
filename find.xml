@@ -21,8 +21,8 @@
     <mask>*.yaml</mask>
     <mask>*.properties</mask>
     <mask>*.*</mask>
-    <mask>*.json</mask>
     <mask>*.xml</mask>
+    <mask>*.json</mask>
     <mask>*.java</mask>
   </component>
 </application>
