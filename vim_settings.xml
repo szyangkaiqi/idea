@@ -1,0 +1,312 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/EMS/gas/2.0.14.900.110/ems2.0/CommonService/src/main/java/com/crc/fssc/efinance/common/serviceApi/impl/CommonUtilServiceImpl.java" timestamp="1546823907358">
+        <mark key="[" line="178" column="28" />
+        <mark key="]" line="178" column="82" />
+        <mark key="^" line="178" column="82" />
+        <mark key="." line="178" column="82" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-claim/ems-claim-impl/src/main/java/cn/com/crc/ems/claim/controller/MyClaimController.java" timestamp="1546675652613">
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="79" column="22" />
+        <mark key="^" line="79" column="22" />
+        <mark key="." line="79" column="22" />
+      </file>
+      <file name="C:/EMS_3.0/CRC/DEV/ems-core/src/main/java/cn/com/crc/ems/core/EmsContext.java" timestamp="1561962076329">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/MamsClient.java" timestamp="1546848698825">
+        <mark key="'" line="32" column="17" />
+        <mark key="[" line="183" column="100" />
+        <mark key="]" line="194" column="89" />
+        <mark key="^" line="194" column="89" />
+        <mark key="." line="194" column="89" />
+      </file>
+      <file name="D:/EMS_3.0/DEV/ems-claim/ems-claim-impl/src/main/java/cn/com/crc/ems/claim/controller/ClaimController.java" timestamp="1546839512965">
+        <mark key="[" line="228" column="27" />
+        <mark key="]" line="228" column="38" />
+        <mark key="^" line="228" column="38" />
+        <mark key="." line="228" column="38" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ClaimClient.java" timestamp="1546848594638">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/AccountPoolClient.java" timestamp="1546849244566">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="28" column="2" />
+        <mark key="." line="28" column="2" />
+        <mark key="^" line="25" column="1" />
+      </file>
+      <file name="D:/EMS_3.0/DEV/ems-claim/ems-claim-impl/src/main/resources/application.yml" timestamp="1546825934788">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/vo/basedata/SysValueSetItemVO.java" timestamp="1546695065668">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="166" column="4" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="166" column="0" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/UtClient.java" timestamp="1546848980968">
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-accountant-service/ems-accountant-job-pool/src/main/java/cn/com/crc/ems/accountant/job/pool/controller/AccountantGroupController.java" timestamp="1546849270234">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-claim/ems-claim-impl/src/main/java/cn/com/crc/ems/claim/service/impl/MqTransactionServiceImpl.java" timestamp="1546673766577">
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="54" column="19" />
+        <mark key="^" line="54" column="19" />
+        <mark key="." line="54" column="19" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/vo/basedata/SysOrgExtDto.java" timestamp="1546695962230">
+        <mark key="[" line="122" column="5" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="122" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546848997537">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-claim/ems-claim-impl/src/main/java/cn/com/crc/ems/claim/service/impl/ClaimSubmitProcessServiceImpl.java" timestamp="1546675210456">
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="22" />
+        <mark key="." line="124" column="22" />
+        <mark key="^" line="124" column="22" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/resources/application.yml" timestamp="1546848954753">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ProcessClient.java" timestamp="1546848870229">
+        <mark key="[" line="33" column="28" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-claim/ems-claim-impl/src/main/java/cn/com/crc/ems/process/controller/ClaimProcessController.java" timestamp="1546677300125">
+        <mark key="[" line="146" column="12" />
+        <mark key="]" line="146" column="22" />
+        <mark key="." line="146" column="22" />
+        <mark key="^" line="146" column="22" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/EmsAdminClient.java" timestamp="1546848692778">
+        <mark key="'" line="43" column="17" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="43" column="24" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ReceivablesClient.java" timestamp="1546848925454">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="15" column="31" />
+      </file>
+      <file name="D:/EMS_3.0/CRC/DEV/ems-claim/ems-claim-impl/src/main/java/cn/com/crc/ems/payment/service/impl/PayRequestLinePayInfoServiceImpl.java" timestamp="1546675536625">
+        <mark key="[" line="475" column="43" />
+        <mark key="]" line="374" column="15" />
+        <mark key="." line="374" column="15" />
+        <mark key="^" line="374" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1546695314795">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="19" column="21" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/UtClient.java" />
+      <jump line="58" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ClaimClient.java" />
+      <jump line="99" column="46" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ProcessClient.java" />
+      <jump line="31" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ProcessClient.java" />
+      <jump line="25" column="6" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ClaimClient.java" />
+      <jump line="61" column="108" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ClaimClient.java" />
+      <jump line="27" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ProcessClient.java" />
+      <jump line="22" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/FacadeClient.java" />
+      <jump line="44" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/FacadeClient.java" />
+      <jump line="46" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/UtClient.java" />
+      <jump line="54" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/UtClient.java" />
+      <jump line="46" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/PaymentConfigClient.java" />
+      <jump line="5" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/PaymentClient.java" />
+      <jump line="0" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ClaimClient.java" />
+      <jump line="62" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ClaimClient.java" />
+      <jump line="54" column="4" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ClaimClient.java" />
+      <jump line="32" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/TravelStandardClient.java" />
+      <jump line="39" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/EmsAdminClient.java" />
+      <jump line="93" column="81" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/EmsAdminClient.java" />
+      <jump line="74" column="16" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/vo/CityDto.java" />
+      <jump line="13" column="13" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/vo/admin/TravelStandardDto.java" />
+      <jump line="18" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/AccountPoolClient.java" />
+      <jump line="52" column="25" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/vo/admin/CategoryVO.java" />
+      <jump line="193" column="89" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/MamsClient.java" />
+      <jump line="279" column="35" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/BaseDataClient.java" />
+      <jump line="44" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/EmsAdminClient.java" />
+      <jump line="31" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/MamsClient.java" />
+      <jump line="17" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/PaymentClient.java" />
+      <jump line="34" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ProcessClient.java" />
+      <jump line="16" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ReceivablesClient.java" />
+      <jump line="33" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/UtClient.java" />
+      <jump line="24" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ClaimClient.java" />
+      <jump line="70" column="17" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/BaseDataClient.java" />
+      <jump line="87" column="4" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/BaseDataClient.java" />
+      <jump line="54" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/vo/basedata/SysValueSetItemVO.java" />
+      <jump line="347" column="4" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/BaseDataClient.java" />
+      <jump line="247" column="4" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/BaseDataClient.java" />
+      <jump line="82" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/vo/basedata/SysOrgDTO.java" />
+      <jump line="16" column="23" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/vo/basedata/SysOrgDTO.java" />
+      <jump line="15" column="34" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ReceivablesClient.java" />
+      <jump line="8" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/ReceivablesClient.java" />
+      <jump line="25" column="7" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/AccountPoolClient.java" />
+      <jump line="20" column="36" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/AccountPoolClient.java" />
+      <jump line="30" column="0" filename="D:/EMS_3.0/CRC/DEV/ems-feign/src/main/java/cn/com/crc/ems/feign/AccountPoolClient.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CglASGVhZGVycygiY3JjdG9rZW46IHtjcmN0b2tlbn0iKQoJQEdldE1hcHBpbmcodmFsdWUgPSAiL3BheW1lbnQvYmF0Y2gvcGF5TGluZURldGFpbC9maW5kUGF5TGluZURldGFpbEJ5SWQve3BheUxpbmVEZXRhaWxJZH0iKQoJUGF5TGluZURldGFpbER0byBmaW5kUGF5TGluZURldGFpbEJ5SWQoQFBhdGhWYXJpYWJsZSgicGF5TGluZURldGFpbElkIikgTG9uZyBwYXlMaW5lRGV0YWlsSWQsIEBSZXF1ZXN0SGVhZGVyKCJjcmN0b2tlbiIpIFN0cmluZyBjcmN0b2tlbik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gInF1ZXJ5IiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQovLyAgICBwdWJsaWMgTGlzdDxBY2NvdW50YW50R3JvdXA+IGZpbmRHcm91cHMoQEFwaVBhcmFtKHZhbHVlID0gImRlcElkIikgQFJlcXVlc3RQYXJhbSBTdHJpbmcgZGVwSWQsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAQXBpUGFyYW0odmFsdWUgPSAib3VDb2RlIikgQFJlcXVlc3RQYXJhbSBTdHJpbmcgb3VDb2RlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQEFwaVBhcmFtKHZhbHVlID0gImNhdGVnb3J5Q29kZSIpIEBSZXF1ZXN0UGFyYW0gU3RyaW5nIGNhdGVnb3J5Q29kZSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBBcGlQYXJhbSh2YWx1ZSA9ICJncm91cFR5cGUiKSBAUmVxdWVzdFBhcmFtIFN0cmluZyBncm91cFR5cGUpIHsKLy8gICAgICAgIHJldHVybiBhY2NvdW50YW50R3JvdXBTZXJ2aWNlLmZpbmRHcm91cHNCeU91QW5kQ2F0ZWdvcnlDb2RlKGRlcElkLCBvdUNvZGUsIGNhdGVnb3J5Q29kZSwgZ3JvdXBUeXBlKTsKLy8gICAgfQogICAgCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gInF1ZXJ5IiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQovLyAgICBwdWJsaWMgTGlzdDxBY2NvdW50YW50R3JvdXA+IGZpbmRHcm91cHMoQEFwaVBhcmFtKHZhbHVlID0gImRlcElkIikgQFJlcXVlc3RQYXJhbSBTdHJpbmcgZGVwSWQsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAQXBpUGFyYW0odmFsdWUgPSAib3VDb2RlIikgQFJlcXVlc3RQYXJhbSBTdHJpbmcgb3VDb2RlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQEFwaVBhcmFtKHZhbHVlID0gImNhdGVnb3J5Q29kZSIpIEBSZXF1ZXN0UGFyYW0gU3RyaW5nIGNhdGVnb3J5Q29kZSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBBcGlQYXJhbSh2YWx1ZSA9ICJncm91cFR5cGUiKSBAUmVxdWVzdFBhcmFtIFN0cmluZyBncm91cFR5cGUpIHsKLy8gICAgICAgIHJldHVybiBhY2NvdW50YW50R3JvdXBTZXJ2aWNlLmZpbmRHcm91cHNCeU91QW5kQ2F0ZWdvcnlDb2RlKGRlcElkLCBvdUNvZGUsIGNhdGVnb3J5Q29kZSwgZ3JvdXBUeXBlKTsKLy8gICAgfQogICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwdWJsaWMgQWNjb3VudGFudFByb2Nlc3NMb2dWbyBkZWxQb3JjZXNzbG9nKEBSZXF1ZXN0Qm9keSBBY2NvdW50YW50UHJvY2Vzc0xvZ1ZvIGFjY291bnRhbnRQcm9jZXNzTG9nVm8pOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c3ByaW5nIDoKICBwcm9maWxlcyA6CiAgICBhY3RpdmUgOiBsb2NhbAoKcGFnZWhlbHBlcjoKICBoZWxwZXJEaWFsZWN0OiBteXNxbAogIHJlYXNvbmFibGU6IHRydWUKICBzdXBwb3J0TWV0aG9kc0FyZ3VtZW50czogdHJ1ZQogIHBhcmFtczogY291bnQ9Y291bnRTcWwKCm1hbmFnZW1lbnQ6CiAgZW5kcG9pbnQ6CiAgICBzaHV0ZG93bjoKICAgICAgZW5hYmxlZDogdHJ1ZQogIGVuZHBvaW50czoKICAgIHdlYjoKICAgICAgZXhwb3N1cmU6CiAgICAgICAgaW5jbHVkZToKICAgICAgICAtIHNodXRkb3duCgoKbG9nZ2luZzoKICAgIGxldmVsOgogICAgICAgY246CiAgICAgICAgY29tOgogICAgICAgICBjcmM6CiAgICAgICAgICBlbXM6CiAgICAgICAgICAgdXRzZXJ2aWNlOgogICAgICAgICAgICBtYXBwZXI6IERFQlVHCiAgICAgICAgIGliYXRpcyA6IERFQlVHCgoKCiNteWJhdGlzOgptYXBwZXItbG9jYXRpb25zOiBjbGFzc3BhdGg6eG1sLyoueG1sCgpyaWJib246CiAgUmVhZFRpbWVvdXQgOiA2MDAwMAogIENvbm5lY3RUaW1lb3V0IDogNjAwMDAKICBNYXhBdXRvUmV0cmllcyA6IDAKICBNYXhBdXRvUmV0cmllc05leHRTZXJ2ZXIgOiAxCgp0aHJlYWRwb29sOgogICBjb3JlLXBvb2wtc2l6ZTogMTAKICAgbWF4LXBvb2wtc2l6ZTogODAKICAgcXVldWUtY2FwYWNpdHk6IDMwMAogICBrZWVwLWFsaXZlLXNlY29uZHM6IDMwMAoK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CgpkZWYgdXJsX29wZW4odXJsKToKCiAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KHVybCkKCiAgICByZXEuYWRkX2hlYWRlcignVXNlci1BZ2VudCcsICdNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA1LjE7IHJ2OjQzLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNDMuMCcpCgogICAgcmVzcG9uc2UgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSkKICAgIGh0bWwgPSByZXNwb25zZS5yZWFkKCkKCiAgICByZXR1cm4gaHRtbAoKCmhlYWRlcnMgPSB7CiAgICAnVXNlci1BZ2VudCc6ICdNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMV80KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNTIuMC4yNzQzLjExNiBTYWZhcmkvNTM3LjM2Jwp9CmZvciBpIGluIHJhbmdlKDEsIDIpOgogICAgdXJsID0gImh0dHA6Ly93d3cudW1laS5jYy9tZWludnR1cGlhbi94aW5nZ2FubWVpbnYve30uaHRtIi5mb3JtYXQoIHN0cihpKSkKICAgIHIgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzPWhlYWRlcnMpCgogICAgYnNPYmogPSBCZWF1dGlmdWxTb3VwKHIudGV4dCwgImh0bWwucGFyc2VyIikgICMgdXJsbGliLnJlcXVlc3TkuI3pnIDopoHliqBgLnRleHRgCiAgICBpbWFnZUxpc3QgPSBic09iai5zZWxlY3QoIi5UeXBlQmlnUGljcyIpCiAgICBpbWFnZV9udW09MAogICAgZm9yIHggaW4gaW1hZ2VMaXN0OgogICAgICAgIGZvciBzdWJQYWdlTnVtIGluICByYW5nZSgxLDQwKToKICAgICAgICAgICAgaW1hZ2VfbnVtID0gaW1hZ2VfbnVtKzEKICAgICAgICAgICAgdXJsUGF0aCA9IHN0cih4WydocmVmJ10pCiAgICAgICAgICAgIHN1Yk5hbWUgPXN0cih1cmxQYXRoLnNwbGl0KCIvIilbLTFdKS5zcGxpdCgiLiIpWzBdCiAgICAgICAgICAgIHVybFBhdGggPSAiLyIuam9pbih1cmxQYXRoLnNwbGl0KCIvIilbMDotMV0pKyIvIitzdWJOYW1lKyJfe30uaHRtIi5mb3JtYXQoc3ViUGFnZU51bSkKCiAgICAgICAgICAgIHJlcyA9IHJlcXVlc3RzLmdldCh1cmxQYXRoLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgIGlmIHJlcy5zdGF0dXNfY29kZSAhPSAyMDA6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBzdWJCcyA9IEJlYXV0aWZ1bFNvdXAocmVzLnRleHQsICJodG1sLnBhcnNlciIpICAjIHVybGxpYi5yZXF1ZXN05LiN6ZyA6KaB5YqgYC50ZXh0YAogICAgICAgICAgICBzdWJJbWFnZUxpc3QgPSBzdWJCcy5zZWxlY3QoIi5JbWFnZUJvZHkgcCBpbWciKQogICAgICAgICAgICBmb3IgaW1nSW5kZXggaW4gc3ViSW1hZ2VMaXN0OgogICAgICAgICAgICAgICAgIyByZXF1ZXN0cy5yZXF1ZXN0LnVybG9wZW4oaW1nSW5kZXhbJ3NyYyddKS5yZWQoKQogICAgICAgICAgICAgICAgcHJpbnQoaW1nSW5kZXhbJ3NyYyddKQogICAgICAgICAgICAgICAgdXJscmV0cmlldmUoaW1nSW5kZXhbJ3NyYyddLCAiZDpcXHRlc3RcXHt9LmpwZyIuZm9ybWF0KHV1aWQudXVpZDEoKSksZGF0YT0pICAjIFB5dGhvbuiHquW4pueahOS/neWtmOWkmuWqkuS9k+aWh+S7tueahOaWueazPwogICAgICAgICAgICAgICAgIyB3aXRoIG9wZW4oImQ6XFx0ZXN0XFx7fS5qcGciLmZvcm1hdCh1dWlkLnV1aWQxKCkpLCd3YicpIGFzIGY6CiAgICAgICAgICAgICAgICAjICAgICBwcmludChyZXF1ZXN0cy5nZXQoaW1nSW5kZXhbJ3NyYyddLGhlYWRlcnM9aGVhZGVycykudGV4dCkKICAgICAgICAgICAgICAgICMgICAgIGYud3JpdGUocmVxdWVzdHMuZ2V0KGltZ0luZGV4WydzcmMnXSxoZWFkZXJzPWhlYWRlcnMpLmNvbnRlbnQpCgoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CS8qKgoJICogU1lTX09SR+ihqOeahOS4u+mUrgoJICovCglwcml2YXRlIFN0cmluZyBvcmdDb2RlOwoKCS8qKgoJICog5Lia5Yqh57o/IGFsbC3ljLvllYYKCSAqLwoJcHJpdmF0ZSBTdHJpbmcgYnVzaW5lc3NMaW5lOwoKCS8qKgoJICog6YOo6Zeo57G75Z6LIDHnrqHnkIbvvD8y6ZQ/5ZSu77yMM+WItuk/PwoJICovCglwcml2YXRlIFN0cmluZyBvcmdUeXBlOwoKCS8qKgoJICog5qC4566X5py65p6ECgkgKi8KCXByaXZhdGUgU3RyaW5nIGNvbXBhbnlDb2RlOwoKCS8qKgoJICog5oiQ5pys5Lit5b+D57yW56CBCgkgKi8KCXByaXZhdGUgU3RyaW5nIGNvc3RDZW50ZXJDb2RlOwoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CS8qKgoJICog5oiQ5pys5Lit5b+D5ZCN56ewCgkgKi8KCXByaXZhdGUgU3RyaW5nIGNvc3RDZW50ZXJOYW1lOwoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgkvKioKCSAqIOaIkOacrOS4reW/g+WxnuY/PyAx566h55CG77w/MumUP+WUPwoJICovCglwcml2YXRlIFN0cmluZyBjb3N0Q2VudGVyQXR0cjsKCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgkvKioKCSAqIOWIm+W7uuaXtumXtAoJICovCglwcml2YXRlIERhdGUgY3JlYXRlZFRpbWU7Cgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CgkvKioKCSAqIOS/ruaUueaXtumXtAoJICovCglwcml2YXRlIERhdGUgdXBkYXRlZFRpbWU7Cgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

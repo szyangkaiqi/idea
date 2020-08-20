@@ -6,6 +6,25 @@
           <option name="url" value="http://gitlab.crc.com.cn" />
           <option name="userName" value="yangkaiqi1" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.crc.com.cn:443" />
+          <option name="userName" value="yangkaiqi1" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="15818679267@139.com" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
       </list>
     </option>
   </component>

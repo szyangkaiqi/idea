@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.devopsuat.crc.com.cn" />
+          <token>dfcfdf9cdf93df99dfcbdfcfdf9adf9fdf9ddf93df9ddf93df9bdf9ddfcbdf9ddfccdf9bdf99df92df9edf9adfc8df9cdfcfdfc9df9cdfcbdfcfdf9bdf9adf93dfc9dfcfdfc8df9ddf9bdf99dfcfdf9e</token>
+          <option name="name" value="http://sonar.devopsuat.crc.com.cn" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
