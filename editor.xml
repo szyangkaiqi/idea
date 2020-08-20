@@ -4,6 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
@@ -16,12 +17,15 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
     <option name="replaceVarWithInferredType" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
