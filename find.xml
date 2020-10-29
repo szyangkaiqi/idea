@@ -10,7 +10,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.yml</mask>
     <mask>*.Java</mask>
     <mask>*.properties`</mask>
     <mask>*.java\</mask>
@@ -23,6 +22,7 @@
     <mask>*.*</mask>
     <mask>*Controller.java</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
     <mask>*.java</mask>
   </component>
 </application>
