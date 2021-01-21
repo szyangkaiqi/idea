@@ -6,6 +6,12 @@
   <action id="JRebel Executor">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
   <action id="Run" />
   <action id="UsageGrouping.DirectoryStructure" />
 </keymap>
