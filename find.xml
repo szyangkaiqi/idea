@@ -20,10 +20,10 @@
     <mask>*.yaml</mask>
     <mask>*Controller.java</mask>
     <mask>*.yml</mask>
-    <mask>*.sql</mask>
     <mask>*.*</mask>
-    <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
   </component>
 </application>
