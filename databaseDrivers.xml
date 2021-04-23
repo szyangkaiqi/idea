@@ -81,7 +81,8 @@
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="oracle.19" name="aas-sit">
+    <driver id="oracle.19" name="oracle">
+      <artifact id="Oracle" name="Oracle" channel="fixed" rolling="false" use="true" version="21.1.0.0" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
       <option name="format-sources-on-sync" value="true" />
@@ -95,9 +96,8 @@
       <option name="auto-commit" value="false" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <library>
-        <url>file://$MAVEN_REPOSITORY$/com/oracle/ojdbc14/10.2.0.4.0/ojdbc14.jar</url>
-      </library>
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="postgresql">
       <option name="auto-sync" value="true" />
