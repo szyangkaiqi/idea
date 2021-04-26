@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="Jenkins*" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -21,10 +21,10 @@
     <mask>*.yml</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
-    <mask>*.sql</mask>
     <mask>*.*</mask>
+    <mask>Jenkins*</mask>
+    <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>Jenkins*</mask>
   </component>
 </application>
