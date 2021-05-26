@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -25,10 +25,10 @@
     <mask>*.log</mask>
     <mask>*.sql</mask>
     <mask>*.pr*</mask>
-    <mask>*.*</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.*</mask>
   </component>
 </application>
