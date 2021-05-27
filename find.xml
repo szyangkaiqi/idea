@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.pr*" />
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -23,13 +23,13 @@
     <mask>*.properties</mask>
     <mask>Jenkins*</mask>
     <mask>*.log</mask>
-    <mask>*.pr*</mask>
     <mask>pom.xml</mask>
     <mask>tm_file_process*.sql</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
-    <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
+    <mask>*.pr*</mask>
   </component>
 </application>
