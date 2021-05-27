@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -25,11 +25,11 @@
     <mask>*.log</mask>
     <mask>pom.xml</mask>
     <mask>tm_file_process*.sql</mask>
-    <mask>*.sql</mask>
     <mask>*.*</mask>
     <mask>*.jsp</mask>
     <mask>*.pr*</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
