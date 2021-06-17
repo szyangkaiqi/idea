@@ -27,8 +27,8 @@
     <mask>*.pr*</mask>
     <mask>*.sql</mask>
     <mask>*.sh</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
