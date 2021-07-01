@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -25,11 +25,11 @@
     <mask>tm_file_process*.sql</mask>
     <mask>*.sh</mask>
     <mask>*.jsp</mask>
-    <mask>*.sql</mask>
     <mask>*.*</mask>
     <mask>service-ctrl-template_uat2.sh</mask>
     <mask>*.pr*</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
