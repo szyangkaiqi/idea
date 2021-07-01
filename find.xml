@@ -25,10 +25,10 @@
     <mask>tm_file_process*.sql</mask>
     <mask>*.sh</mask>
     <mask>*.jsp</mask>
-    <mask>*.pr*</mask>
     <mask>*.sql</mask>
     <mask>*.*</mask>
     <mask>service-ctrl-template_uat2.sh</mask>
+    <mask>*.pr*</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
