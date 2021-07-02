@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="Jenkinsfile2*" />
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -25,11 +25,12 @@
     <mask>tm_file_process*.sql</mask>
     <mask>*.sh</mask>
     <mask>*.jsp</mask>
-    <mask>*.*</mask>
     <mask>service-ctrl-template_uat2.sh</mask>
     <mask>*.pr*</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.*</mask>
+    <mask>Jenkinsfile2*</mask>
   </component>
 </application>
