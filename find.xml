@@ -26,10 +26,11 @@
     <mask>*.sh</mask>
     <mask>*.jsp</mask>
     <mask>service-ctrl-template_uat2.sh</mask>
-    <mask>*.pr*</mask>
     <mask>*.sql</mask>
     <mask>*.*</mask>
     <mask>Jenkinsfile2*</mask>
+    <mask>*.pr*</mask>
+    <mask>Jenkinsfile*</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
