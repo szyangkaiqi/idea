@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.pr*" />
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -29,9 +29,9 @@
     <mask>*.sql</mask>
     <mask>*.*</mask>
     <mask>Jenkinsfile2*</mask>
-    <mask>*.pr*</mask>
     <mask>Jenkinsfile*</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.pr*</mask>
   </component>
 </application>
