@@ -30,8 +30,8 @@
     <mask>*.*</mask>
     <mask>Jenkinsfile2*</mask>
     <mask>Jenkinsfile*</mask>
-    <mask>*.xml</mask>
     <mask>*.pr*</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
