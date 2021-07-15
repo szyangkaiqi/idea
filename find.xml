@@ -29,9 +29,9 @@
     <mask>*.jsp</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.pr*</mask>
+    <mask>*.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
