@@ -28,13 +28,13 @@
     <mask>service-ctrl-template_uat2.sh</mask>
     <mask>Jenkinsfile2*</mask>
     <mask>Jenkinsfile*</mask>
-    <mask>pom.xml</mask>
     <mask>*.*</mask>
     <mask>*.jsp</mask>
     <mask>*_uat.sh</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.pr*</mask>
+    <mask>pom.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
