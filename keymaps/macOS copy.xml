@@ -1,4 +1,13 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowStandaloneDiff">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GuiDesigner.Duplicate" />
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -12,5 +21,9 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="Run" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
   <action id="UsageGrouping.DirectoryStructure" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
