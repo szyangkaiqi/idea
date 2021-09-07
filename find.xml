@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -31,8 +33,8 @@
     <mask>*.pr*</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.*</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
