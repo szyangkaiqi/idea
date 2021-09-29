@@ -31,10 +31,10 @@
     <mask>*.jsp</mask>
     <mask>*_uat.sh</mask>
     <mask>*.pr*</mask>
-    <mask>*.*</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.*</mask>
     <mask>*.java</mask>
   </component>
 </application>
