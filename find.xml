@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -29,10 +29,10 @@
     <mask>*_uat.sh</mask>
     <mask>*.pr*</mask>
     <mask>pom.xml</mask>
-    <mask>*.*</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*client.java</mask>
     <mask>*.java</mask>
+    <mask>*.*</mask>
   </component>
 </application>
