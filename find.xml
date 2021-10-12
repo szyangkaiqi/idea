@@ -27,12 +27,12 @@
     <mask>Jenkinsfile*</mask>
     <mask>*.jsp</mask>
     <mask>*_uat.sh</mask>
-    <mask>*.pr*</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*client.java</mask>
     <mask>*.*</mask>
     <mask>*.xml</mask>
+    <mask>*.pr*</mask>
     <mask>*.java</mask>
   </component>
 </application>
