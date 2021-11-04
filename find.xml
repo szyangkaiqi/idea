@@ -30,9 +30,9 @@
     <mask>*_uat*.sh</mask>
     <mask>*_uat2.sh</mask>
     <mask>*_uat.sh</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>pom.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
