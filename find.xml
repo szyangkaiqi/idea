@@ -26,13 +26,13 @@
     <mask>*.jsp</mask>
     <mask>*client.java</mask>
     <mask>*.*</mask>
-    <mask>*.pr*</mask>
     <mask>*_uat*.sh</mask>
     <mask>*_uat2.sh</mask>
     <mask>*_uat.sh</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
+    <mask>*.pr*</mask>
     <mask>*.java</mask>
   </component>
 </application>
