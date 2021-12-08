@@ -31,8 +31,8 @@
     <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.pr*</mask>
-    <mask>*.sql</mask>
     <mask>pom.xml</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
   </component>
 </application>
