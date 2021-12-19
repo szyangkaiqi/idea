@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="1709" />
+    <option name="newTranslationDialogX" value="83" />
+    <option name="newTranslationDialogY" value="467" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="threshold" />
+      <item value="(The javadoc description is true upon serialization. Additionally, if the table array has not been allocated, this field holds the initial array capacity, or zero signifying DEFAULT_INITIAL_CAPACITY.)" />
       <item value="The bin count threshold for using a tree rather than list for a bin. Bins are converted to trees when adding an element to a bin with at least this many nodes. The value must be greater than 2 and should be at least 8 to mesh with assumptions in tree removal about conversion back to plain bins upon shrinkag" />
       <item value="critical" />
       <item value="/** * Removes the current thread's value for this thread-local * variable. If this thread-local variable is subsequently * {@linkplain #get read} by the current thread, its value will be * reinitialized by invoking its {@link #initialValue} method, * unless its value is {@linkplain #set set} by the current thread * in the interim. This may result in multiple invocations of the * {@code initialValue} method in the current thread. * * @since 1.5 */" />
@@ -49,14 +55,13 @@
       <item value="/** * Returns a buffered reader that reads from a file using the given character set. * * &lt;p&gt;&lt;b&gt;{@link java.nio.file.Path} equivalent:&lt;/b&gt; {@link" />
       <item value="/** * Provides utility methods for working with {@linkplain File files}. * * &lt;p&gt;{@link java.nio.file.Path} users will find similar utilities in {@link MoreFiles} and the * JDK's {@link java.nio.file.Files} class. * * @author Chris Nokleberg * @author Colin Decker * @since 1.0 */" />
       <item value="/** * This class consists exclusively of static methods that return a {@link Path} * by converting a path string or {@link URI}. * * @since 1.7 */" />
-      <item value="/** * Create a new file, failing if the file already exists. * The check for the existence of the file and the creation of the file * if it does not exist is atomic with respect to other file system * operations. */" />
-      <item value="/** * Create a new file if it does not exist. * This option is ignored if the {@link #CREATE_NEW} option is also set. * The check for the existence of the file and the creation of the file * if it does not exist is atomic with respect to other file system * operations. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="81" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
+        <entry key="ESPERANTO" value="8" />
       </map>
     </option>
   </component>
@@ -72,6 +77,7 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Microsoft YaHei Mono" />
     <option name="primaryFontFamily" value="Microsoft YaHei Mono" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="269a4579c59bf261" />
