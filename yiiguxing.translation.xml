@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="467" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Rounding mode to round towards &quot;nearest neighbor&quot; unless both neighbors are equidistant, in which case round up. Behaves as for RoundingMode.UP if the discarded fraction is ≥ 0.5; otherwise, behaves as for RoundingMode.DOWN. Note that this is the rounding mode commonly taught at school. Example: Rounding mode HALF_UP Examples Input Number Input rounded to one digit with HALF_UP rounding" />
+      <item value="Rounding mode to round towards &quot;nearest neighbor&quot; unless both neighbors are equidistant, in which case round up. Behaves as for ROUND_UP if the discarded fraction is ≥ 0.5; otherwise, behaves as for ROUND_DOWN. Note that this is the rounding mode that most of us were taught in grade school." />
       <item value="Set the width (in units of 1256th of a character width) The maximum column width for an individual cell is 255 characters. This value represents the number of characters that can be displayed in a cell that is formatted with the standard font (first font in the workbook). Character width is defined as the maximum digit width of the numbers 0, 1, 2, ... 9 as rendered using the default font (first font in the workbook). Unless you are using a very special font, the default character is '0' (zero), this is true for Arial (default font font in HSSF) and Calibri (default font in XSSF) Please note, that the width set by this method includes 4 pixels of margin padding (two on each side), plus 1 pixel padding for the gridlines (Section 3.3.1.12 of the OOXML spec). This results is a slightly less value of visible characters than passed to this method (approx. 12 of a character). To compute the actual number of visible characters, Excel uses the following formula (Section 3.3.1.12 of the OOXML spec): width = Truncate([{Number of Visible Characters} {Maximum Digit Width} + {5 pixel padding}]{Maximum Digit Width}256)256 Using the Calibri font as an example, the maximum digit width of 11 point font size is 7 pixels (at 96 dpi). If you set a column width to be eight characters wide, e.g. setColumnWidth(columnIndex, 8256), then the actual value of visible characters (the value shown in Excel) is derived from the following equation: Truncate([numChars7+5]7256)256 = 8; which gives 7.29. Params: columnIndex – - the column to set (0-based) width – - the width in units of 1256th of a character width Throws:" />
       <item value="threshold" />
       <item value="(The javadoc description is true upon serialization. Additionally, if the table array has not been allocated, this field holds the initial array capacity, or zero signifying DEFAULT_INITIAL_CAPACITY.)" />
@@ -53,13 +55,11 @@
       <item value="/** * Set the concurrency of the listener container for this listener. Overrides the * default set by the listener container factory. Maps to the concurrency setting of * the container type. * &lt;p&gt;For a * {@link org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer * SimpleMessageListenerContainer} if this value is a simple integer, it sets a fixed * number of consumers in the {@code concurrentConsumers} property. If it is a string * with the form {@code &quot;m-n&quot;}, the {@code concurrentConsumers} is set to {@code m} * and the {@code maxConcurrentConsumers} is set to {@code n}. * &lt;p&gt;For a * {@link org.springframework.amqp.rabbit.listener.DirectMessageListenerContainer * DirectMessageListenerContainer} it sets the {@code consumersPerQueue} property. * @return the concurrency. * @since 2.0 */" />
       <item value="allow" />
       <item value="Reads the full contents of this byte source as a byte array." />
-      <item value="/** * Returns a buffered reader that reads from a file using the given character set. * * &lt;p&gt;&lt;b&gt;{@link java.nio.file.Path} equivalent:&lt;/b&gt; {@link" />
-      <item value="/** * Provides utility methods for working with {@linkplain File files}. * * &lt;p&gt;{@link java.nio.file.Path} users will find similar utilities in {@link MoreFiles} and the * JDK's {@link java.nio.file.Files} class. * * @author Chris Nokleberg * @author Colin Decker * @since 1.0 */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ESPERANTO" value="8" />
       </map>
