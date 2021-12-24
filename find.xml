@@ -30,9 +30,9 @@
     <mask>*_uat.sh</mask>
     <mask>*.*</mask>
     <mask>*.pr*</mask>
-    <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
