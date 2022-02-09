@@ -29,10 +29,10 @@
     <mask>*.*</mask>
     <mask>*.pr*</mask>
     <mask>*.xml</mask>
-    <mask>*.sql</mask>
     <mask>*_uat*.sh</mask>
     <mask>pom.xml</mask>
     <mask>Jenkins*</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
   </component>
 </application>
