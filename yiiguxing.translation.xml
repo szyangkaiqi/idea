@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="467" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns an unmodifiable view of the difference of two sets. The returned set contains all elements that are contained by set1 and not contained by set2. set2 may also contain elements not present in set1; these are simply ignored. The iteration order of the returned set matches that of set1. Results are undefined if set1 and set2 are sets based on different equivalence relations (as HashSet, TreeSet, and the keySet of an IdentityHashMap all are)." />
+      <item value="Returns an unmodifiable view of the union of two sets. The returned set contains all elements that are contained in either backing set. Iterating over the returned set iterates first over all the elements of set1, then over each element of set2, in order, that is not contained in set1. Results are undefined if set1 and set2 are sets based on different equivalence relations (as HashSet, TreeSet, and the Map.keySet of an IdentityHashMap all are)." />
+      <item value="Returns an unmodifiable view of the intersection of two sets. The returned set contains all elements that are contained by both backing sets. The iteration order of the returned set matches that of set1. Results are undefined if set1 and set2 are sets based on different equivalence relations (as HashSet, TreeSet, and the keySet of an IdentityHashMap all are). Note: The returned view performs slightly better when set1 is the smaller of the two sets. If you have reason to believe one of your sets will generally be smaller than the other, pass it first. Unfortunately, since this method sets the generic type of the returned set based on the type of the first set passed, this could in rare cases force you to make a cast, for example: Set&lt;Object&gt; aFewBadObjects = ... Set&lt;String&gt; manyBadStrings = ... impossible for a non-String to be in the intersection SuppressWarnings(&quot;unchecked&quot;) Set&lt;String&gt; badStrings = (Set) Sets.intersection( aFewBadObjects, manyBadStrings); This is unfortunate, but should come up only very rarely." />
+      <item value="intersection" />
+      <item value="Returns an immutable set instance containing the given enum elements. Internally, the returned set will be backed by an EnumSet. The iteration order of the returned set follows the enum's iteration order, not the order in which the elements are provided to the method. Params: anElement – one of the elements the set should contain otherElements – the rest of the elements the set should contain Returns: an immutable set containing those elements, minus duplicates" />
       <item value="keep Alive Duration" />
       <item value="SECONDS" />
       <item value="Create a new connection pool with tuning parameters appropriate for a single-user application. The tuning parameters in this pool are subject to change in future OkHttp releases. Currently this pool holds up to 5 idle connections which will be evicted after 5 minutes of inactivity." />
@@ -50,23 +55,18 @@
       <item value="/** * Customize the element declaration to be nillable. * &lt;p&gt;If nillable() is true, then the JavaBean property is * mapped to a XML Schema nillable element declaration. */" />
       <item value="unmodifiable" />
       <item value="bank transfer" />
-      <item value="FindBugs: Dead store to local variable This instruction assigns a value to a local variable, but the value is not read or used in any subsequent instruction. Often, this indicates an error, because the value computed is never used. Note that Sun's ja vac compiler often generates dead stores for final local variables. Because FindBugs is a bytecode-based tool, there is no easy way to eliminate these false positives." />
-      <item value="he name of the user-provided message bundle as defined in the specification." />
-      <item value="make" />
-      <item value="Result" />
-      <item value="/** * If a value is present, apply the provided {@code Optional}-bearing * mapping function to it, return that result, otherwise return an empty * {@code Optional}. This method is similar to {@link #map(Function)}, * but the provided mapper is one whose result is already an {@code Optional}, * and if invoked, {@code flatMap} does not wrap it with an additional * {@code Optional}. * * @param &lt;U&gt; The type parameter to the {@code Optional} returned by * @param mapper a mapping function to apply to the value, if present * the mapping function * @return the result of applying an {@code Optional}-bearing mapping * function to the value of this {@code Optional}, if a value is present, * otherwise an empty {@code Optional} * @throws NullPointerException if the mapping function is null or returns * a null result */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="102" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ESPERANTO" value="8" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642861024251" />
+    <option name="lastTrimTime" value="1644401318380" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
