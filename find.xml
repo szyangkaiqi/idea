@@ -31,8 +31,8 @@
     <mask>*_uat*.sh</mask>
     <mask>Jenkins*</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
