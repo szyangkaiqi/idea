@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="467" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bottom Border Color" />
+      <item value="Right Border Color" />
+      <item value="BLACK" />
+      <item value="SOLID FOREGROUND" />
       <item value="Returns an unmodifiable view of the difference of two sets. The returned set contains all elements that are contained by set1 and not contained by set2. set2 may also contain elements not present in set1; these are simply ignored. The iteration order of the returned set matches that of set1. Results are undefined if set1 and set2 are sets based on different equivalence relations (as HashSet, TreeSet, and the keySet of an IdentityHashMap all are)." />
       <item value="Returns an unmodifiable view of the union of two sets. The returned set contains all elements that are contained in either backing set. Iterating over the returned set iterates first over all the elements of set1, then over each element of set2, in order, that is not contained in set1. Results are undefined if set1 and set2 are sets based on different equivalence relations (as HashSet, TreeSet, and the Map.keySet of an IdentityHashMap all are)." />
       <item value="Returns an unmodifiable view of the intersection of two sets. The returned set contains all elements that are contained by both backing sets. The iteration order of the returned set matches that of set1. Results are undefined if set1 and set2 are sets based on different equivalence relations (as HashSet, TreeSet, and the keySet of an IdentityHashMap all are). Note: The returned view performs slightly better when set1 is the smaller of the two sets. If you have reason to believe one of your sets will generally be smaller than the other, pass it first. Unfortunately, since this method sets the generic type of the returned set based on the type of the first set passed, this could in rare cases force you to make a cast, for example: Set&lt;Object&gt; aFewBadObjects = ... Set&lt;String&gt; manyBadStrings = ... impossible for a non-String to be in the intersection SuppressWarnings(&quot;unchecked&quot;) Set&lt;String&gt; badStrings = (Set) Sets.intersection( aFewBadObjects, manyBadStrings); This is unfortunate, but should come up only very rarely." />
@@ -51,22 +55,18 @@
       <item value="Substitute the template entries with the generated sheet data files" />
       <item value="/** * Returns the longest string {@code prefix} such that {@code a.toString().startsWith(prefix) &amp;&amp; * b.toString().startsWith(prefix)}, taking care not to split surrogate pairs. If {@code a} and * {@code b} have no common prefix, returns the empty string. * * @since 11.0 */" />
       <item value="equivalent" />
-      <item value="specified twice" />
-      <item value="/** * Customize the element declaration to be nillable. * &lt;p&gt;If nillable() is true, then the JavaBean property is * mapped to a XML Schema nillable element declaration. */" />
-      <item value="unmodifiable" />
-      <item value="bank transfer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="106" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ESPERANTO" value="8" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644401318380" />
+    <option name="lastTrimTime" value="1645612818503" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
