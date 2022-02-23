@@ -27,12 +27,12 @@
     <mask>*_uat2.sh</mask>
     <mask>*_uat.sh</mask>
     <mask>*.*</mask>
-    <mask>*.pr*</mask>
     <mask>*_uat*.sh</mask>
     <mask>Jenkins*</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.pr*</mask>
     <mask>*.java</mask>
   </component>
 </application>
