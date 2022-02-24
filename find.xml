@@ -25,7 +25,6 @@
     <mask>*client.java</mask>
     <mask>*_uat2.sh</mask>
     <mask>*_uat.sh</mask>
-    <mask>*.*</mask>
     <mask>*_uat*.sh</mask>
     <mask>Jenkins*</mask>
     <mask>pom.xml</mask>
@@ -33,6 +32,7 @@
     <mask>*.pr*</mask>
     <mask>*.jsp</mask>
     <mask>*.sql</mask>
+    <mask>*.*</mask>
     <mask>*.java</mask>
   </component>
 </application>
