@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="Jenkins*" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.Java</mask>
@@ -26,7 +26,6 @@
     <mask>*_uat2.sh</mask>
     <mask>*_uat.sh</mask>
     <mask>*_uat*.sh</mask>
-    <mask>Jenkins*</mask>
     <mask>pom.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.pr*</mask>
@@ -34,5 +33,6 @@
     <mask>*.*</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>Jenkins*</mask>
   </component>
 </application>
