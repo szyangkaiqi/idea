@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="NEVER" />
+      <item value="STATELESS" />
+      <item value="IF REQUIRED" />
+      <item value="ALWAYS" />
       <item value="SPECIAL" />
       <item value="Splits sequence into string components and returns them as an immutable list. If you want an Iterable which may be lazily evaluated, use split(CharSequence). Params: sequence – the sequence of characters to split Returns: an immutable list of the segments split from the parameter Since: 15.0" />
       <item value="Compares this String to another String, ignoring case considerations. Two strings are considered equal ignoring case if they are of the same length and corresponding characters in the two strings are equal ignoring case. Two characters c1 and c2 are considered the same ignoring case if at least one of the following is true: The two characters are the same (as compared by the == operator) Applying the method Character.toUpperCase(char) to each character produces the same result Applying the method Character.toLowerCase(char) to each character produces the same result Params: anotherString – The String to compare this String against Returns: true if the argument is not null and it represents an equivalent String ignoring case; false otherwise" />
@@ -52,15 +56,11 @@
       <item value="Deserializer String Cache" />
       <item value="/** * Get a connection from the pool, or timeout after the specified number of milliseconds. * * @param hardTimeout the maximum time to wait for a connection from the pool * @return a java.sql.Connection instance * @throws SQLException thrown if a timeout occurs trying to obtain a connection */" />
       <item value="/** * Set the SQL query to be executed to test the validity of connections. Using * the JDBC4 &lt;code&gt;Connection.isValid()&lt;/code&gt; method to test connection validity can * be more efficient on some databases and is recommended. See * {@link HikariConfig#setJdbc4ConnectionTest(boolean)}. * * @param connectionTestQuery a SQL query string */" />
-      <item value="/** * Set the SQL query to be executed to test the validity of connections. Using * the JDBC4 &lt;code&gt;Connection.isValid()&lt;/code&gt; method to test connection validity can * be more efficient on some databases and is recommended. See * {@link HikariConfig#setJdbc4ConnectionTest(boolean)}." />
-      <item value="MINUTES" />
-      <item value="/** * Creates a new {@code ThreadPoolExecutor} with the given initial * parameters and default thread factory and rejected execution handler. * It may be more convenient to use one of the {@link Executors} factory * methods instead of this general purpose constructor. * * @param corePoolSize the number of threads to keep in the pool, even * if they are idle, unless {@code allowCoreThreadTimeOut} is set * @param maximumPoolSize the maximum number of threads to allow in the * pool * @param keepAliveTime when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating. * @param unit the time unit for the {@code keepAliveTime} argument * @param workQueue the queue to use for holding tasks before they are * executed. This queue will hold only the {@code Runnable} * tasks submitted by the {@code execute} method. * @throws IllegalArgumentException if one of the following holds:&lt;br&gt; * {@code corePoolSize &lt; 0}&lt;br&gt; * {@code keepAliveTime &lt; 0}&lt;br&gt; * {@code maximumPoolSize &lt;= 0}&lt;br&gt; * {@code maximumPoolSize &lt; corePoolSize} * @throws NullPointerException if {@code workQueue} is null */" />
-      <item value="/** * Splits {@code sequence} into string components and returns them as an immutable list. If you * want an {@link Iterable} which may be lazily evaluated, use {@link #split(CharSequence)}. * * @param sequence the sequence of characters to split * @return an immutable list of the segments split from the parameter * @since 15.0 */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="117" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ESPERANTO" value="8" />
       </map>
