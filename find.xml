@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.pr*" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.Java</mask>
@@ -30,11 +30,11 @@
     <mask>*_uat*.sh</mask>
     <mask>pom.xml</mask>
     <mask>*.jsp</mask>
-    <mask>*.pr*</mask>
     <mask>Jenkins*</mask>
     <mask>*.sql</mask>
     <mask>*.*</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.pr*</mask>
   </component>
 </application>
