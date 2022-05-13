@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.Java</mask>
@@ -30,11 +30,11 @@
     <mask>*_uat*.sh</mask>
     <mask>*.jsp</mask>
     <mask>Jenkins*</mask>
-    <mask>*.sql</mask>
     <mask>*.pr*</mask>
     <mask>*.*</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
